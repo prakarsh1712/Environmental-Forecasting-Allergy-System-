@@ -1,0 +1,29 @@
+# Core data science packages
+numpy>=1.19.2
+pandas>=1.2.0
+scikit-learn>=0.24.0
+
+# Visualization packages
+matplotlib>=3.3.0
+seaborn>=0.12.0
+plotly>=5.13.0
+cufflinks>=0.17.3
+bar-chart-race>=0.1.1
+
+# Web interface and interactive components
+streamlit>=1.22.0
+ipython>=8.0.0
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Geographical plotting
+folium>=0.14.0
+pycountry>=22.3.5
+
+# Machine learning and deep learning
+torch>=1.9.0
+tqdm>=4.62.0
+
+# Additional utilities
+python-dateutil>=2.8.2
+pytz>=2023.3 
